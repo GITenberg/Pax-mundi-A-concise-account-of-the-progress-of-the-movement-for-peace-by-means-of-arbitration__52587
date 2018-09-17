@@ -1,0 +1,28 @@
+_repo: Pax-mundi-A-concise-account-of-the-progress-of-the-movement-for-peace-by-means-of-arbitration__52587
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnoldson, K. P. (Klas Pontus)
+    alias: Arnoldson, Klas Pontus
+    birthdate: 1844
+    deathdate: 1916
+    gutenberg_agent_id: '46943'
+    url: http://www.gutenberg.org/2009/agents/46943
+description: ''
+gutenberg_issued: '2016-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arbitration (International law)'
+- !lcc 'JX'
+- !lcsh 'Neutrality'
+- !lcsh 'International law'
+- GITenberg
+title: "Pax mundi\r\nA concise account of the progress of the movement for peace by\
+  \ means of arbitration, neutralization, international law and disarmament"
+url: http://www.gutenberg.org/ebooks/52587
